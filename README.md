@@ -1,5 +1,5 @@
 # 💫 About Me:
-⦿ 🔭 I’m currently working on Power Bi<br><br>⦿ 🌱 I’m currently learning Data Analyst<br><br>⦿ 💬 Ask me about AI,Excel,Machine Learning,SQL<br><br>⦿ 📫 How to reach me umerpatel1540@gmail.com<br><br>⦿ ⚡ Fun fact I'm funny in person
+⦿ 🔭 I’m currently working on SQL<br><br>⦿ 🌱 I’m currently learning Data Analyst<br><br>⦿ 💬 Ask me about AI,Excel,Machine Learning,SQL<br><br>⦿ 📫 How to reach me umerpatel1540@gmail.com<br><br>⦿ ⚡ Fun fact I'm funny in person
 
 
 ## 🌐 Socials:
