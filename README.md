@@ -1,5 +1,5 @@
 # 💫 About Me:
-⦿ 🔭 I’m currently working on REACT and Frontend Projects<br><br>⦿ 🌱 I’m currently learning Web Development<br><br>⦿ 💬 Ask me about AI,,Machine Learning,SQL<br><br>⦿ 📫 How to reach me umerpatel1540@gmail.com<br><br>⦿ ⚡ Fun fact I'm funny in person
+⦿ 🔭 I’m currently working on REACT js and Frontend Projects<br><br>⦿ 🌱 I’m currently learning Web Development<br><br>⦿ 💬 Ask me about AI,,Machine Learning,SQL<br><br>⦿ 📫 How to reach me umerpatel1540@gmail.com<br><br>⦿ ⚡ Fun fact I'm funny in person
 
 
 ## 🌐 Socials:
