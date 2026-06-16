@@ -1,27 +1,91 @@
-# 💫 About Me:
-⦿ 🔭 I’m currently working on REACT js and Frontend Projects<br><br>⦿ 🌱 I’m currently learning Web Development<br><br>⦿ 💬 Ask me about AI,,Machine Learning,SQL<br><br>⦿ 📫 How to reach me umerpatel1540@gmail.com<br><br>⦿ ⚡ Fun fact I'm funny in person
+# Hi, I'm Umer Patel 👋
+### iOS Developer · AI/ML Enthusiast · Builder
 
+I build iOS apps that ship — from concept to App Store.  
+Currently working on **CommuteTimely** (live on App Store) and exploring on-device ML & AI model evaluation.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umerpatel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@umerpatel1540) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/Umerpatel11) 
+📍 India &nbsp;|&nbsp; 📧 umerpatel1540@gmail.com &nbsp;|&nbsp; 🌐 [Portfolio](https://umerpatel.vercel.app/)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=callmeumair&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=callmeumair&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=callmeumair&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=callmeumair&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umerpatel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://umerpatel.vercel.app/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umerpatel1540@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Umerpatel11)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=callmeumair&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured Projects
+
+### 📱 CommuteTimely — [App Store](#) | [Repo](#)
+> Commute planning app with ML-based delay predictions, Mapbox routing & real-time weather integration.
+- StoreKit 2 subscriptions & Live Activities
+- Supabase backend with real-time data sync
+
+**Stack:** `Swift` `SwiftUI` `Core ML` `Mapbox` `WeatherBit` `Supabase` `StoreKit 2`
+
+---
+
+### 🦷 Glawbite — AI Teeth Whitening Tracker
+> AI-powered teeth analysis app using on-device ML for brightness scoring, stain detection & gum health.  
+> Targeting the Indian health & beauty market.
+
+**Stack:** `Swift` `SwiftUI` `Core ML` `Vision` `Firebase`
+
+---
+
+### 🌐 Portfolio Website — [Live](https://umerpatel.vercel.app/)
+> Personal portfolio built with React & TypeScript, deployed on Vercel.
+
+**Stack:** `React` `TypeScript` `Vercel`
+
+---
+
+## 🛠 Tech Stack
+
+**Mobile**
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=apple&logoColor=white)
+![Core ML](https://img.shields.io/badge/Core_ML-7C6EFF?style=flat-square&logo=apple&logoColor=white)
+![StoreKit](https://img.shields.io/badge/StoreKit_2-FA7343?style=flat-square&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-0D96F6?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI / Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-7C6EFF?style=flat-square&logo=pytorch&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Umer's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmeumair&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=callmeumair&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=callmeumair&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+## ⚡ What I'm Up To
+
+- 🔨 Building **CommuteTimely V2** with enhanced ML predictions and improved UX
+- 🤖 Doing **AI model evaluation & RLHF annotation** for leading AI labs
+- 💡 Exploring new **iOS app ideas** in health & productivity niches
+- 📚 Deepening expertise in **on-device ML** with Core ML & Vision framework
+
+---
+
+## 🤝 Let's Connect
+
+Open to **iOS developer roles**, **AI/ML projects**, and **freelance app development**.  
+Reach me at [umerpatel1540@gmail.com](mailto:umerpatel1540@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/umerpatel).
